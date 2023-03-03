@@ -37,7 +37,11 @@
         "https://matrix-client.matrix.org": false
     },
     "setting_defaults": {
-        "breadcrumbs": true
+        "breadcrumbs": true,
+        "language": "zh-hans"
+    },
+    "embedded_pages": {
+        "login_for_welcome": true
     },
     "jitsi": {
         "preferred_domain": "meet.element.io"
